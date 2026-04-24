@@ -1,0 +1,301 @@
+Show_ID,Title,Type,Genre,Language,Release_Year,Duration_Minutes,Age_Rating,Production_Country,Budget_Million,IMDB_Rating
+S001,Show_1,Movie,Action,Spanish,2018,108,13+,South Korea,24.35,8.3
+S002,Show_2,Movie,Horror,English,2015,91,13+,India,80.75,5.1
+S003,Show_3,Movie,Horror,Hindi,2022,155,16+,USA,116.23,5.7
+S004,Show_4,TV Show,Sci-Fi,Spanish,2017,107,16+,USA,22.98,5.4
+S005,Show_5,TV Show,Drama,English,2022,148,13+,Spain,21.03,6.3
+S006,Show_6,TV Show,Comedy,English,2015,164,13+,UK,147.93,8.8
+S007,Show_7,Movie,Horror,Spanish,2022,161,16+,India,61.83,5.9
+S008,Show_8,TV Show,Romance,Korean,2017,148,18+,India,32.88,6.7
+S009,Show_9,Movie,Sci-Fi,English,2018,84,16+,Spain,47.48,5.9
+S010,Show_10,TV Show,Comedy,French,2021,162,16+,India,47.08,6.1
+S011,Show_11,TV Show,Horror,Korean,2021,126,13+,India,81.33,5.4
+S012,Show_12,Movie,Romance,Hindi,2017,167,16+,France,18.89,6.7
+S013,Show_13,TV Show,Drama,Korean,2015,167,18+,USA,105.44,7.4
+S014,Show_14,TV Show,Sci-Fi,English,2019,135,13+,Spain,10.45,8.2
+S015,Show_15,TV Show,Thriller,Korean,2016,160,16+,South Korea,81.07,5.9
+S016,Show_16,TV Show,Thriller,Korean,2023,80,18+,UK,78.4,5.5
+S017,Show_17,TV Show,Drama,Hindi,2015,110,18+,USA,21.99,7.2
+S018,Show_18,Movie,Thriller,Hindi,2022,150,13+,UK,83.87,7.7
+S019,Show_19,Movie,Comedy,Spanish,2021,165,18+,UK,71.33,7.3
+S020,Show_20,Movie,Comedy,Hindi,2016,123,13+,France,87.55,7.6
+S021,Show_21,Movie,Romance,English,2018,88,13+,UK,19.92,6.1
+S022,Show_22,TV Show,Comedy,Korean,2017,172,18+,France,76.17,8.5
+S023,Show_23,TV Show,Comedy,English,2016,164,16+,UK,69.3,7.1
+S024,Show_24,Movie,Romance,English,2021,173,16+,USA,44.81,5.9
+S025,Show_25,TV Show,Thriller,French,2017,115,16+,India,132.43,5.3
+S026,Show_26,Movie,Action,Korean,2015,91,13+,India,66.9,7.2
+S027,Show_27,TV Show,Action,Hindi,2021,80,16+,UK,139.71,8.5
+S028,Show_28,TV Show,Horror,Korean,2022,99,13+,UK,40.48,5.3
+S029,Show_29,Movie,Sci-Fi,English,2015,154,16+,France,138.71,7.4
+S030,Show_30,Movie,Romance,Hindi,2016,156,13+,South Korea,130.65,6.8
+S031,Show_31,Movie,Action,Korean,2016,133,18+,France,89.13,6.4
+S032,Show_32,TV Show,Comedy,Spanish,2018,113,16+,India,104.04,6.3
+S033,Show_33,TV Show,Romance,English,2022,159,18+,USA,20.26,6.0
+S034,Show_34,TV Show,Thriller,Spanish,2016,111,16+,UK,32.08,8.8
+S035,Show_35,TV Show,Action,Korean,2019,164,13+,India,47.03,9.0
+S036,Show_36,Movie,Drama,Spanish,2024,106,18+,UK,38.5,7.9
+S037,Show_37,TV Show,Documentary,Spanish,2015,91,18+,Spain,126.11,5.2
+S038,Show_38,TV Show,Thriller,Spanish,2017,174,16+,France,108.79,7.5
+S039,Show_39,Movie,Romance,Hindi,2023,84,16+,France,87.35,6.9
+S040,Show_40,Movie,Drama,Spanish,2015,125,13+,South Korea,44.93,5.5
+S041,Show_41,TV Show,Thriller,Hindi,2017,102,16+,USA,35.11,9.2
+S042,Show_42,TV Show,Comedy,Spanish,2017,180,18+,USA,63.56,5.2
+S043,Show_43,TV Show,Comedy,Hindi,2022,124,16+,India,41.21,8.0
+S044,Show_44,TV Show,Sci-Fi,Spanish,2016,178,16+,UK,99.81,6.8
+S045,Show_45,TV Show,Action,English,2019,102,18+,UK,15.36,7.7
+S046,Show_46,TV Show,Sci-Fi,French,2024,145,13+,Spain,135.93,5.9
+S047,Show_47,Movie,Horror,English,2023,148,18+,South Korea,141.64,8.3
+S048,Show_48,Movie,Sci-Fi,French,2016,165,16+,France,53.95,8.8
+S049,Show_49,TV Show,Drama,French,2020,131,18+,UK,87.62,5.9
+S050,Show_50,TV Show,Thriller,Korean,2024,118,16+,France,126.72,6.4
+S051,Show_51,Movie,Horror,Korean,2024,163,16+,Spain,71.85,8.0
+S052,Show_52,TV Show,Thriller,English,2019,145,18+,South Korea,96.7,5.4
+S053,Show_53,Movie,Drama,Hindi,2018,98,13+,USA,44.28,7.1
+S054,Show_54,Movie,Documentary,French,2024,104,18+,South Korea,63.76,6.8
+S055,Show_55,Movie,Action,English,2021,108,13+,South Korea,82.51,5.2
+S056,Show_56,Movie,Romance,French,2017,139,18+,France,148.3,7.7
+S057,Show_57,TV Show,Horror,Korean,2022,100,18+,Spain,73.01,8.4
+S058,Show_58,TV Show,Documentary,Hindi,2019,136,13+,South Korea,50.0,6.2
+S059,Show_59,TV Show,Romance,Hindi,2017,109,16+,South Korea,31.39,6.0
+S060,Show_60,TV Show,Horror,Spanish,2023,139,16+,USA,38.96,6.9
+S061,Show_61,Movie,Horror,French,2015,125,16+,Spain,129.48,9.3
+S062,Show_62,TV Show,Comedy,French,2018,114,16+,Spain,14.06,6.5
+S063,Show_63,TV Show,Thriller,French,2017,159,18+,USA,136.97,7.7
+S064,Show_64,Movie,Romance,French,2017,139,13+,USA,46.42,6.5
+S065,Show_65,TV Show,Sci-Fi,Spanish,2021,115,16+,UK,126.89,7.1
+S066,Show_66,Movie,Sci-Fi,Hindi,2016,179,18+,USA,115.59,9.3
+S067,Show_67,Movie,Action,Korean,2017,110,13+,Spain,103.72,7.5
+S068,Show_68,Movie,Documentary,Spanish,2020,101,18+,France,144.92,8.2
+S069,Show_69,Movie,Drama,English,2024,83,16+,France,104.83,9.3
+S070,Show_70,TV Show,Comedy,English,2024,168,18+,India,24.27,8.5
+S071,Show_71,Movie,Action,Spanish,2023,134,18+,UK,19.65,7.9
+S072,Show_72,Movie,Horror,French,2016,135,16+,South Korea,134.82,7.1
+S073,Show_73,Movie,Horror,Hindi,2023,163,16+,France,123.15,7.4
+S074,Show_74,TV Show,Documentary,French,2024,114,16+,India,126.3,5.4
+S075,Show_75,TV Show,Comedy,French,2024,158,18+,Spain,57.1,7.2
+S076,Show_76,TV Show,Thriller,French,2018,125,16+,UK,49.15,7.7
+S077,Show_77,TV Show,Action,Korean,2018,90,13+,South Korea,66.9,7.5
+S078,Show_78,Movie,Documentary,French,2022,82,13+,UK,41.02,8.1
+S079,Show_79,TV Show,Sci-Fi,French,2023,147,16+,Spain,149.53,7.5
+S080,Show_80,TV Show,Documentary,Spanish,2019,112,13+,USA,110.98,6.4
+S081,Show_81,Movie,Comedy,Hindi,2022,115,18+,France,146.72,7.4
+S082,Show_82,TV Show,Romance,Hindi,2019,109,16+,India,52.32,8.2
+S083,Show_83,Movie,Drama,English,2015,150,16+,South Korea,142.17,7.9
+S084,Show_84,TV Show,Romance,English,2024,116,16+,Spain,71.67,5.8
+S085,Show_85,Movie,Drama,French,2016,88,16+,Spain,20.37,7.8
+S086,Show_86,Movie,Thriller,Hindi,2024,118,13+,India,26.58,8.4
+S087,Show_87,Movie,Horror,French,2022,118,18+,Spain,52.75,7.8
+S088,Show_88,Movie,Comedy,Hindi,2019,164,13+,India,43.58,7.5
+S089,Show_89,Movie,Action,French,2022,168,18+,Spain,50.78,6.0
+S090,Show_90,TV Show,Documentary,English,2018,113,18+,France,102.57,9.2
+S091,Show_91,TV Show,Romance,Korean,2018,162,13+,UK,125.73,5.3
+S092,Show_92,Movie,Drama,Korean,2024,116,16+,USA,75.62,6.4
+S093,Show_93,TV Show,Drama,Korean,2023,143,16+,USA,93.73,9.0
+S094,Show_94,TV Show,Drama,English,2016,109,18+,France,92.2,5.1
+S095,Show_95,TV Show,Action,Hindi,2022,146,18+,Spain,138.25,5.8
+S096,Show_96,TV Show,Documentary,English,2022,124,16+,UK,54.95,5.5
+S097,Show_97,Movie,Sci-Fi,French,2022,116,18+,Spain,123.9,7.5
+S098,Show_98,TV Show,Romance,Spanish,2019,121,13+,Spain,131.09,8.7
+S099,Show_99,Movie,Documentary,French,2015,104,18+,UK,97.17,7.2
+S100,Show_100,TV Show,Action,Hindi,2019,150,13+,UK,71.34,8.1
+S101,Show_101,Movie,Action,Korean,2018,170,13+,UK,87.12,7.5
+S102,Show_102,Movie,Comedy,English,2022,95,18+,India,79.77,8.2
+S103,Show_103,TV Show,Horror,French,2022,111,16+,France,30.25,5.9
+S104,Show_104,Movie,Romance,Spanish,2021,123,18+,UK,124.88,6.3
+S105,Show_105,TV Show,Documentary,Hindi,2022,148,16+,UK,56.54,8.4
+S106,Show_106,TV Show,Documentary,Spanish,2018,169,13+,France,63.62,8.9
+S107,Show_107,TV Show,Action,Spanish,2022,170,16+,Spain,148.38,8.6
+S108,Show_108,Movie,Documentary,English,2017,144,18+,UK,131.76,8.9
+S109,Show_109,TV Show,Romance,Korean,2022,81,18+,India,67.4,7.9
+S110,Show_110,Movie,Romance,French,2019,123,18+,South Korea,65.65,5.4
+S111,Show_111,TV Show,Horror,Spanish,2022,149,13+,France,19.58,7.8
+S112,Show_112,TV Show,Comedy,English,2021,92,18+,South Korea,132.16,7.0
+S113,Show_113,TV Show,Action,English,2020,87,16+,UK,62.48,5.7
+S114,Show_114,TV Show,Thriller,Hindi,2017,90,18+,Spain,96.76,6.1
+S115,Show_115,Movie,Comedy,French,2019,138,16+,South Korea,11.32,8.6
+S116,Show_116,TV Show,Thriller,English,2022,124,18+,UK,99.45,6.9
+S117,Show_117,TV Show,Documentary,Spanish,2018,129,16+,USA,43.21,7.6
+S118,Show_118,TV Show,Drama,English,2021,115,13+,France,131.11,8.5
+S119,Show_119,Movie,Documentary,Spanish,2018,157,16+,India,99.13,7.8
+S120,Show_120,Movie,Romance,English,2019,180,16+,USA,91.14,8.3
+S121,Show_121,Movie,Drama,Spanish,2021,102,13+,India,120.11,8.9
+S122,Show_122,TV Show,Drama,Hindi,2019,141,16+,South Korea,131.86,8.6
+S123,Show_123,TV Show,Romance,Hindi,2018,166,18+,South Korea,147.19,9.4
+S124,Show_124,TV Show,Romance,French,2015,113,18+,USA,73.67,8.0
+S125,Show_125,TV Show,Horror,Spanish,2016,166,13+,Spain,13.5,9.0
+S126,Show_126,TV Show,Comedy,English,2022,169,16+,South Korea,67.16,5.6
+S127,Show_127,Movie,Drama,French,2016,92,13+,France,28.99,7.0
+S128,Show_128,TV Show,Thriller,French,2016,142,18+,Spain,141.47,6.3
+S129,Show_129,TV Show,Comedy,French,2022,110,16+,USA,147.33,6.7
+S130,Show_130,TV Show,Action,French,2019,104,13+,Spain,22.83,6.0
+S131,Show_131,Movie,Action,Spanish,2018,96,18+,India,19.61,8.4
+S132,Show_132,Movie,Comedy,Hindi,2020,179,13+,France,10.4,8.9
+S133,Show_133,Movie,Thriller,Korean,2019,102,13+,South Korea,131.3,5.6
+S134,Show_134,TV Show,Comedy,Korean,2020,82,13+,UK,17.34,8.3
+S135,Show_135,Movie,Romance,French,2022,179,16+,France,93.11,7.0
+S136,Show_136,Movie,Action,Korean,2019,138,18+,USA,18.52,7.2
+S137,Show_137,TV Show,Horror,English,2022,171,16+,USA,135.9,6.4
+S138,Show_138,Movie,Romance,Hindi,2019,159,18+,France,86.77,6.5
+S139,Show_139,TV Show,Documentary,Korean,2024,135,13+,South Korea,26.02,7.9
+S140,Show_140,Movie,Horror,French,2018,132,16+,Spain,65.82,8.3
+S141,Show_141,TV Show,Horror,Spanish,2019,127,13+,South Korea,139.22,5.3
+S142,Show_142,Movie,Romance,French,2016,175,18+,UK,123.65,7.5
+S143,Show_143,TV Show,Romance,French,2020,165,16+,South Korea,17.2,6.3
+S144,Show_144,TV Show,Sci-Fi,English,2024,144,13+,India,101.94,6.0
+S145,Show_145,Movie,Sci-Fi,Korean,2020,94,16+,France,41.66,6.9
+S146,Show_146,Movie,Drama,English,2017,114,18+,UK,139.02,6.6
+S147,Show_147,Movie,Thriller,Korean,2021,88,13+,South Korea,98.64,5.1
+S148,Show_148,Movie,Horror,French,2022,123,13+,UK,53.63,6.5
+S149,Show_149,Movie,Action,Hindi,2017,176,18+,USA,104.36,6.2
+S150,Show_150,TV Show,Documentary,Korean,2022,133,16+,India,115.69,5.5
+S151,Show_151,TV Show,Romance,Spanish,2024,142,18+,South Korea,53.18,6.0
+S152,Show_152,Movie,Action,Hindi,2019,107,13+,UK,50.52,5.5
+S153,Show_153,TV Show,Horror,Hindi,2017,128,18+,South Korea,42.22,7.5
+S154,Show_154,TV Show,Romance,French,2015,135,13+,Spain,138.96,8.9
+S155,Show_155,TV Show,Horror,French,2019,94,16+,USA,145.27,5.8
+S156,Show_156,TV Show,Sci-Fi,English,2021,93,13+,Spain,92.44,7.4
+S157,Show_157,TV Show,Drama,Spanish,2018,122,13+,USA,81.47,5.5
+S158,Show_158,Movie,Sci-Fi,Spanish,2017,110,13+,India,45.84,5.8
+S159,Show_159,Movie,Romance,Hindi,2022,139,18+,France,72.85,9.2
+S160,Show_160,TV Show,Sci-Fi,Hindi,2022,88,16+,Spain,98.39,8.6
+S161,Show_161,Movie,Sci-Fi,Korean,2016,119,16+,Spain,15.27,6.7
+S162,Show_162,TV Show,Romance,English,2024,156,18+,Spain,74.78,7.5
+S163,Show_163,Movie,Documentary,Korean,2018,121,18+,Spain,80.19,9.3
+S164,Show_164,TV Show,Romance,Spanish,2016,144,18+,India,15.48,8.2
+S165,Show_165,TV Show,Thriller,Spanish,2020,116,16+,Spain,118.43,8.1
+S166,Show_166,Movie,Sci-Fi,English,2020,92,18+,South Korea,64.12,6.1
+S167,Show_167,Movie,Sci-Fi,English,2024,164,13+,UK,53.43,8.0
+S168,Show_168,TV Show,Thriller,Korean,2016,119,18+,Spain,100.09,6.5
+S169,Show_169,Movie,Romance,French,2023,126,13+,UK,53.24,9.3
+S170,Show_170,TV Show,Documentary,Hindi,2018,97,13+,USA,51.41,8.5
+S171,Show_171,Movie,Sci-Fi,Korean,2017,156,16+,India,32.71,8.7
+S172,Show_172,Movie,Documentary,English,2021,126,18+,South Korea,43.25,7.0
+S173,Show_173,TV Show,Documentary,Hindi,2023,110,16+,Spain,136.56,5.9
+S174,Show_174,TV Show,Documentary,Spanish,2021,144,18+,Spain,145.28,8.7
+S175,Show_175,Movie,Drama,English,2022,127,18+,USA,109.6,7.3
+S176,Show_176,Movie,Drama,English,2017,114,16+,France,30.63,7.0
+S177,Show_177,Movie,Documentary,Spanish,2015,133,13+,Spain,80.28,6.1
+S178,Show_178,Movie,Sci-Fi,Hindi,2015,120,13+,South Korea,100.99,8.6
+S179,Show_179,Movie,Action,Spanish,2022,169,13+,South Korea,75.68,7.8
+S180,Show_180,Movie,Action,Spanish,2018,99,18+,South Korea,95.24,6.9
+S181,Show_181,TV Show,Comedy,Spanish,2016,86,13+,Spain,99.45,7.8
+S182,Show_182,Movie,Romance,French,2024,148,13+,South Korea,82.15,6.1
+S183,Show_183,Movie,Drama,French,2015,158,16+,India,89.89,5.8
+S184,Show_184,Movie,Sci-Fi,English,2023,149,18+,France,87.58,6.8
+S185,Show_185,TV Show,Action,French,2020,112,18+,USA,59.99,5.3
+S186,Show_186,Movie,Romance,Korean,2020,97,13+,UK,86.44,8.7
+S187,Show_187,Movie,Documentary,French,2017,97,13+,South Korea,118.67,7.1
+S188,Show_188,TV Show,Comedy,English,2018,85,16+,UK,82.15,9.5
+S189,Show_189,TV Show,Drama,English,2018,116,16+,USA,131.21,6.5
+S190,Show_190,Movie,Sci-Fi,French,2021,175,16+,Spain,57.47,5.8
+S191,Show_191,TV Show,Sci-Fi,Korean,2019,90,18+,Spain,21.05,7.7
+S192,Show_192,Movie,Drama,Spanish,2016,90,16+,South Korea,51.39,7.0
+S193,Show_193,TV Show,Thriller,French,2020,137,13+,South Korea,131.81,6.6
+S194,Show_194,TV Show,Drama,English,2016,165,18+,Spain,60.86,8.6
+S195,Show_195,Movie,Action,Hindi,2024,166,16+,USA,27.67,6.1
+S196,Show_196,TV Show,Sci-Fi,French,2024,84,18+,India,105.07,9.3
+S197,Show_197,TV Show,Documentary,English,2024,97,18+,UK,65.72,7.9
+S198,Show_198,Movie,Romance,English,2017,143,18+,Spain,137.9,5.5
+S199,Show_199,TV Show,Documentary,Hindi,2024,116,18+,Spain,38.02,5.6
+S200,Show_200,Movie,Documentary,Hindi,2022,91,18+,UK,103.5,8.2
+S201,Show_201,TV Show,Drama,Hindi,2017,126,18+,India,26.99,5.9
+S202,Show_202,Movie,Comedy,French,2015,126,18+,France,61.65,8.6
+S203,Show_203,Movie,Romance,English,2019,130,18+,South Korea,77.01,6.8
+S204,Show_204,TV Show,Romance,Hindi,2020,162,13+,Spain,75.22,7.3
+S205,Show_205,Movie,Thriller,Hindi,2021,144,13+,USA,82.53,6.4
+S206,Show_206,Movie,Sci-Fi,Hindi,2020,146,16+,USA,45.08,7.9
+S207,Show_207,TV Show,Thriller,Spanish,2024,148,13+,France,99.74,7.7
+S208,Show_208,Movie,Thriller,Korean,2024,123,18+,USA,125.53,5.1
+S209,Show_209,Movie,Drama,Hindi,2024,133,18+,South Korea,14.24,9.0
+S210,Show_210,TV Show,Drama,French,2018,167,16+,UK,73.5,8.1
+S211,Show_211,Movie,Documentary,French,2022,139,13+,UK,94.93,6.4
+S212,Show_212,TV Show,Sci-Fi,French,2017,177,16+,France,88.63,6.4
+S213,Show_213,TV Show,Romance,Spanish,2022,111,13+,USA,17.08,9.3
+S214,Show_214,TV Show,Comedy,Hindi,2020,153,18+,UK,36.58,5.7
+S215,Show_215,TV Show,Documentary,Spanish,2022,82,13+,Spain,80.76,9.4
+S216,Show_216,Movie,Sci-Fi,English,2015,116,16+,France,133.53,7.9
+S217,Show_217,TV Show,Drama,Korean,2015,93,16+,India,133.54,8.3
+S218,Show_218,TV Show,Sci-Fi,English,2021,86,18+,France,37.25,7.5
+S219,Show_219,Movie,Horror,Korean,2022,177,18+,UK,125.54,7.8
+S220,Show_220,Movie,Thriller,English,2021,127,16+,France,141.45,8.4
+S221,Show_221,Movie,Horror,Korean,2015,85,13+,India,109.9,8.6
+S222,Show_222,TV Show,Thriller,Korean,2023,97,16+,France,54.59,6.8
+S223,Show_223,TV Show,Sci-Fi,Korean,2023,148,16+,South Korea,88.81,7.1
+S224,Show_224,Movie,Sci-Fi,Spanish,2016,133,18+,UK,121.55,8.3
+S225,Show_225,Movie,Documentary,Spanish,2024,153,13+,South Korea,17.19,7.2
+S226,Show_226,TV Show,Thriller,Hindi,2015,153,18+,USA,36.71,7.0
+S227,Show_227,TV Show,Thriller,French,2018,132,18+,France,138.87,8.9
+S228,Show_228,Movie,Thriller,Korean,2018,151,16+,South Korea,76.97,6.7
+S229,Show_229,Movie,Documentary,Korean,2020,149,16+,South Korea,118.08,8.2
+S230,Show_230,TV Show,Documentary,Hindi,2018,115,18+,UK,41.48,9.4
+S231,Show_231,TV Show,Drama,Hindi,2022,120,16+,UK,88.47,9.2
+S232,Show_232,TV Show,Drama,English,2024,166,18+,Spain,135.41,6.8
+S233,Show_233,TV Show,Thriller,Spanish,2015,116,18+,USA,58.49,7.0
+S234,Show_234,TV Show,Documentary,Hindi,2018,148,16+,France,107.46,5.6
+S235,Show_235,Movie,Comedy,English,2023,108,18+,India,17.35,6.9
+S236,Show_236,TV Show,Romance,Hindi,2015,150,13+,Spain,101.4,9.0
+S237,Show_237,TV Show,Documentary,Hindi,2019,121,16+,South Korea,18.28,8.5
+S238,Show_238,Movie,Action,Hindi,2021,102,13+,Spain,120.31,5.8
+S239,Show_239,TV Show,Action,English,2019,152,18+,USA,139.98,6.5
+S240,Show_240,TV Show,Documentary,Hindi,2023,139,16+,India,123.23,6.5
+S241,Show_241,TV Show,Drama,Hindi,2015,174,16+,UK,89.49,8.4
+S242,Show_242,Movie,Horror,French,2023,121,13+,Spain,103.7,5.8
+S243,Show_243,Movie,Documentary,Spanish,2018,80,16+,Spain,42.97,8.4
+S244,Show_244,TV Show,Drama,Korean,2024,81,16+,South Korea,60.34,6.1
+S245,Show_245,Movie,Documentary,Spanish,2017,131,18+,France,139.23,9.0
+S246,Show_246,TV Show,Romance,Spanish,2020,158,13+,India,144.03,7.2
+S247,Show_247,TV Show,Sci-Fi,French,2023,140,18+,South Korea,125.58,8.4
+S248,Show_248,Movie,Documentary,Korean,2020,89,18+,USA,18.65,7.5
+S249,Show_249,Movie,Thriller,Hindi,2020,146,16+,USA,105.24,8.2
+S250,Show_250,TV Show,Romance,Korean,2022,87,16+,India,81.85,7.1
+S251,Show_251,Movie,Documentary,Spanish,2015,130,16+,USA,114.41,7.6
+S252,Show_252,Movie,Horror,Spanish,2016,149,13+,USA,148.06,7.1
+S253,Show_253,TV Show,Horror,Hindi,2017,178,18+,South Korea,100.42,6.9
+S254,Show_254,TV Show,Documentary,French,2021,90,18+,South Korea,132.44,5.6
+S255,Show_255,TV Show,Romance,Hindi,2023,130,18+,India,111.9,6.0
+S256,Show_256,Movie,Action,Spanish,2022,166,18+,France,69.38,6.7
+S257,Show_257,Movie,Comedy,French,2020,99,16+,India,141.24,8.3
+S258,Show_258,Movie,Action,French,2024,178,13+,India,38.85,5.5
+S259,Show_259,Movie,Documentary,Korean,2015,111,18+,USA,66.32,6.1
+S260,Show_260,Movie,Action,Hindi,2023,117,13+,South Korea,90.66,7.6
+S261,Show_261,TV Show,Comedy,Spanish,2017,164,18+,India,67.9,6.2
+S262,Show_262,Movie,Horror,Korean,2022,86,16+,South Korea,103.99,8.5
+S263,Show_263,TV Show,Horror,French,2017,118,16+,India,115.62,7.1
+S264,Show_264,Movie,Drama,Hindi,2022,87,18+,Spain,145.49,7.5
+S265,Show_265,Movie,Horror,Hindi,2019,106,16+,South Korea,21.07,7.0
+S266,Show_266,TV Show,Romance,Korean,2018,86,16+,Spain,104.31,7.7
+S267,Show_267,Movie,Comedy,Korean,2023,107,16+,India,131.73,6.5
+S268,Show_268,Movie,Comedy,Hindi,2016,175,16+,India,107.39,8.2
+S269,Show_269,TV Show,Comedy,Korean,2020,179,16+,Spain,75.28,7.9
+S270,Show_270,TV Show,Drama,Spanish,2023,143,16+,USA,122.39,8.3
+S271,Show_271,TV Show,Comedy,Spanish,2020,132,13+,France,130.97,8.3
+S272,Show_272,Movie,Drama,Korean,2024,154,18+,Spain,51.33,5.9
+S273,Show_273,Movie,Horror,Korean,2018,143,18+,South Korea,142.09,6.5
+S274,Show_274,TV Show,Documentary,French,2017,173,16+,India,29.59,7.5
+S275,Show_275,Movie,Action,Korean,2015,89,18+,USA,117.01,6.9
+S276,Show_276,Movie,Romance,Hindi,2015,107,18+,Spain,62.25,7.8
+S277,Show_277,TV Show,Documentary,English,2015,148,18+,Spain,11.66,7.4
+S278,Show_278,TV Show,Drama,English,2023,169,18+,Spain,122.86,9.1
+S279,Show_279,Movie,Romance,Korean,2017,110,13+,France,83.7,8.7
+S280,Show_280,TV Show,Horror,English,2020,131,16+,France,44.05,8.1
+S281,Show_281,TV Show,Romance,English,2016,131,16+,Spain,87.38,5.3
+S282,Show_282,Movie,Thriller,English,2022,135,18+,UK,89.22,8.9
+S283,Show_283,Movie,Action,Hindi,2018,168,18+,Spain,47.95,9.2
+S284,Show_284,TV Show,Action,Hindi,2020,82,13+,France,30.19,8.7
+S285,Show_285,TV Show,Romance,Spanish,2017,152,13+,France,126.85,6.8
+S286,Show_286,TV Show,Horror,Hindi,2016,144,18+,UK,17.52,7.0
+S287,Show_287,Movie,Sci-Fi,Korean,2024,156,16+,UK,14.15,6.2
+S288,Show_288,TV Show,Documentary,Hindi,2020,150,16+,Spain,36.0,7.6
+S289,Show_289,TV Show,Romance,Korean,2019,111,18+,USA,21.49,5.7
+S290,Show_290,Movie,Horror,Spanish,2020,93,13+,USA,142.01,7.0
+S291,Show_291,TV Show,Romance,Hindi,2016,103,16+,Spain,87.98,7.3
+S292,Show_292,Movie,Action,English,2020,150,13+,France,93.73,6.5
+S293,Show_293,TV Show,Action,Spanish,2021,129,13+,South Korea,136.16,9.1
+S294,Show_294,Movie,Thriller,French,2017,97,16+,UK,47.58,5.7
+S295,Show_295,Movie,Horror,Spanish,2021,118,16+,USA,60.56,9.2
+S296,Show_296,TV Show,Comedy,French,2016,97,16+,USA,142.84,6.5
+S297,Show_297,TV Show,Sci-Fi,French,2020,135,18+,France,29.06,6.4
+S298,Show_298,Movie,Documentary,Spanish,2017,130,16+,UK,112.88,7.8
+S299,Show_299,Movie,Sci-Fi,French,2019,180,16+,UK,25.94,7.5
+S300,Show_300,Movie,Action,French,2018,136,16+,South Korea,19.68,8.8
