@@ -96,6 +96,9 @@ An interactive dashboard was built using **Power BI** to visualize key patterns 
 
 
 <img width="1153" height="639" alt="Screenshot 2026-03-17 183452" src="https://github.com/user-attachments/assets/a36574f9-914d-4f4a-a2bc-5c03ec9b5a35" />
+<img width="1153" height="643" alt="Screenshot 2026-03-17 183505" src="https://github.com/user-attachments/assets/979e581b-f88e-4aa8-b1ef-ce9b85789e7f" />
+<img width="1153" height="646" alt="Screenshot 2026-03-17 183516" src="https://github.com/user-attachments/assets/5fdd030b-bbf6-4773-b33f-3d0444614874" />
+<img width="1153" height="647" alt="Screenshot 2026-03-17 183528" src="https://github.com/user-attachments/assets/16f4b4ad-21f4-4538-bc2a-3cf5bd9f3b20" />
 
 
 ## 🚀 Project Outcome
@@ -115,5 +118,5 @@ This project demonstrates the ability to:
 
 
 
-**Yogita Rajput**
+**Yogita**
 Aspiring Data Analyst
